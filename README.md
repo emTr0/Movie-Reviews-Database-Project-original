@@ -1,6 +1,6 @@
-# Final Project - Developing Cloud Native Applications
+# Movie Reviews Database Project
 
-This was the final project for an IBM/edX course.
+This was the final project for the Developing Cloud Native Applications IBM/edX course.
 
 Since completing this course, I'm now able to:
 
